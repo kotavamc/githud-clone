@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(to bottom , rgba(63, 146, 191, 1),rgba(63, 146, 191, 0.43));
+    text-align: center;
+}
+.page{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 120px;
+    font-size: 20px;
+}
+.btn-left{
+    background-color: burlywood;
+    width: 200px;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px;
+}
+.btn-right{
+    background-color: transparent;
+    width: 200px;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px;
+}
+#input-text{
+    margin: 50px;
+    width: 200px;
+}
+.image{
+    height: 600px;
+    width: 500px;
+}
+.home{
+    color: maroon;
+    font-size: 50px;
+}
+#mainmenu{
+    padding: 50px;
+}
